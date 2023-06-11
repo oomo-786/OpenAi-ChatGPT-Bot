@@ -16,7 +16,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = 'Dark Maker Ofc' // Owner Name
+global.OWNER_NAME = 'Makin Pusing' // Owner Name
 global.OWNER_NUMBER = ['6281912414328'] //Owner Number
 global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
